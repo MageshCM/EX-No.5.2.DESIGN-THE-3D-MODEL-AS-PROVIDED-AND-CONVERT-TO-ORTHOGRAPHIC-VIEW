@@ -1,6 +1,6 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
-
+02/04/2024
 ## AIM: 
 To create orthographic view of given 3D model
 
@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![WhatsApp Image 2024-04-02 at 16 06 03_8811de3f](https://github.com/MageshCM/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/164765537/48a23592-a917-47da-82fe-db8060c6b687)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
